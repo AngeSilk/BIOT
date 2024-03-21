@@ -1,0 +1,34 @@
+{
+    "MQTT_SERVER": {
+        "FIO":{
+            "URL": "iotunam.duckdns.org",
+            "PORT": 8883
+        },
+        "RASPI":{
+            "URL":"silteck.duckdns.org",
+            "PORT":10861
+        },
+        "HOME":{
+            "URL": "http://45.228.191.118",
+            "PORT": 17152
+        }
+    },
+    "MQTTS_USER": {
+        "ADMIN": {
+            "USER": "admin",
+            "PASS": "admin"
+        }
+    },
+    "HOME": {
+        "SSID": "@silteck",
+        "PASS": "prosilteck"
+    },
+    "FIO": {
+        "SSID": "SalaTI",
+        "PASS": "edupublica"
+    },
+    "JC": {
+        "SSID": "yatei",
+        "PASS": "RpDqC2x#-8KhPw"
+    }
+}
